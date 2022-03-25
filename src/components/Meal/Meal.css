@@ -1,0 +1,14 @@
+.meal{
+    border-radius: 20px;
+    border: 1px solid orange;
+}
+.meal img{
+    border-radius: 20px;
+}
+.meal button{
+    border: 2px solid orange;
+}
+.meal button:hover{
+    background-color:white;
+    color: orange;
+}
